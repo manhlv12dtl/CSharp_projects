@@ -1,0 +1,6 @@
+
+
+	Ver 6
+	- Bo sung bai do dap ung he thong (gia tin hieu DUC1, DUC2, DUC3) cho 3 kenh may lai
+	- Bo sung bai do dap ung he thong khi gia cac dien ap lenh (K1A, K1B, K2A, K2B)
+	- Bai do duoc kich hoat bang phan mem
